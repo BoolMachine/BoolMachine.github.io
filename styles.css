@@ -1,0 +1,37 @@
+ p 
+ {
+    font-family: Verdana, sans-serif;
+    font-size:12pt;
+    color: black;
+    text-align: center;
+}
+
+h3 
+{
+    font-family: Arial;
+    font-size: 16pt;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+h2
+{
+ font-family: Arial;
+    font-size: 20pt;
+    color: black;
+    text-align: center;
+
+
+}
+
+
+h1 
+{
+     font-family: Lucida Console;
+     font-size: 25pt;
+    color: red;
+    
+    text-align: center;
+}
