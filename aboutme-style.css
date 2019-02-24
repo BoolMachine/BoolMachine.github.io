@@ -23,3 +23,13 @@ ul{
     text-align: center;
     list-style-position: inside;
 }
+a{
+    text-decoration:none;
+}
+a:hover {
+    background-color: blue;
+}
+.change:hover{
+    color: #a0aeff;
+    background-color: blue;
+}
