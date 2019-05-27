@@ -1,25 +1,44 @@
 body{
     margin: 0;
     text-align: center;
+    color: #71c9ce;
 }
 .top-container{
     background-color:#e3fdfd;
     height: 100%;
 }
 h1{
-    color: #71c9ce;
     font-family: 'Niconne', cursive;
     font-size: 562.5%;    
+    margin: 50px auto 0 auto; 
 }
+
 p{
-    color: #71c9ce;
     font-family: 'Berkshire Swash', cursive;
+    
+}
+.developer{
+    font-size: 2.5rem;
 }
 hr{
     border-style: dotted none none;
-    border-color:#cbf1f5;
     border-width:8px;
     width:5%;
+}
+.comp{
+    width: 25%;
+    float:left;
+    margin-right: 13px;
+}
+.chilly{
+    width: 25%;
+    float:right;
+    margin-left: 13px;
+}
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .top-cloud-container{
     position: relative;
