@@ -15,7 +15,20 @@ h1{
 
 p{
     font-family: 'Berkshire Swash', cursive;
-    
+}
+.about-me-text{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color:#40514E;
+
+}
+.texts{
+    color:#40514E;
+    margin: 30px auto 60px auto;
+}
+.some-text{
+    color: #11999E;
 }
 .developer{
     font-size: 2.5rem;
@@ -23,22 +36,36 @@ p{
 hr{
     border-style: dotted none none;
     border-width:8px;
+    margin: 100px auto 100px auto;
     width:5%;
 }
+h2{
+    font-size: 40px;
+}
+.my-skills{
+    margin-bottom:100px;
+}
 .comp{
-    width: 25%;
-    float:left;
+    width: 100px;
+    height: 100px;
     margin-right: 13px;
+    float: left;
+    padding-bottom: 10px;
 }
 .chilly{
-    width: 25%;
-    float:right;
+    width: 100px;
+    height: 100px;
     margin-left: 13px;
+    float: right;
+    padding-bottom: 10px;
 }
 .skill-row{
+    text-align:left;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 70px;
+    clear:top;
 }
 .top-cloud-container{
     position: relative;
@@ -49,6 +76,52 @@ hr{
     position: absolute;
     margin-left: 15px;
 }
+
 .mountain-container{
     position: relative;
+}
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 50px 0 20px;
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .contact-me{
+      margin: auto auto 50px;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30E3CB, #2bc4ad);
+    text-decoration: none;
+  }
+.footer-link{
+    color:#11999E;
+    text-decoration:none;
+    margin: 10px 20px;
+}
+.footer-link:hover{
+    color:#EAF6F6;
+}
+.credentials{
+    color: #EAF6F6;
 }
