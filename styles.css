@@ -6,6 +6,7 @@ body{
 .top-container{
     background-color:#e3fdfd;
     height: 100%;
+    width: 100%;
 }
 h1{
     font-family: 'Niconne', cursive;
