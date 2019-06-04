@@ -70,13 +70,13 @@ h2{
 }
 .top-cloud-container{
     position: relative;
-    padding-left: 400px;
+    padding-left: 50%;
     padding-top: 100px;
     width: 10%;
 }
 .cloud-container{
     position: absolute;
-    margin-left: 15px;
+    margin-right: 5%;
     width: 10%;
 }
 
