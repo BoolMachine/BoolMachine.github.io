@@ -79,6 +79,7 @@ h2{
 
 .mountain-container{
     position: relative;
+    width: 40%;
 }
 .bottom-container{
     background-color:#71c9ce;
