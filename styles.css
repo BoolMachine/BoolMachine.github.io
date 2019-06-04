@@ -71,10 +71,12 @@ h2{
     position: relative;
     padding-left: 400px;
     padding-top: 100px;
+    width: 10%;
 }
 .cloud-container{
     position: absolute;
     margin-left: 15px;
+    width: 10%;
 }
 
 .mountain-container{
